@@ -49,3 +49,7 @@ Read the [contributing guide](CONTRIBUTING.md) to learn about our development pr
 ## Governance
 
 The [PyScript organization governance](https://github.com/pyscript/governance) is documented in a separate repository.
+
+##  
+https://community.anaconda.cloud/c/tech-topics/pyscript/41
+https://pyscript.net/
